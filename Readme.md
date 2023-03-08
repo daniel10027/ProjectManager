@@ -1,7 +1,8 @@
 # ProjectManager
 
 ```
-ProjectManager est une plateforme de gestion et de suivi de projtes immobilier appliquée dans le cas de l'entreprise SIEFTP.
+ProjectManager est une plateforme de gestion et de suivi de projtes 
+immobilier appliquée dans le cas de l'entreprise SIEFTP.
 ```
 
 - Configuration :
